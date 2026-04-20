@@ -5,18 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d46c41bd-4509-4a24-9727-099fb51cf2ab" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/api-final-yatube-ad.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/api-final-yatube-ad.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yatube_api/api/permissions.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yatube_api/api/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/yatube_api/api/serializers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yatube_api/api/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/yatube_api/api/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yatube_api/api/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/yatube_api/api/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yatube_api/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/yatube_api/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yatube_api/posts/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/yatube_api/posts/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yatube_api/posts/migrations/0002_auto_20251031_2019.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yatube_api/posts/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/yatube_api/posts/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yatube_api/yatube_api/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/yatube_api/yatube_api/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
