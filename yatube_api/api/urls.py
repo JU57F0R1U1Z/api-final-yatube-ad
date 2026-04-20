@@ -8,9 +8,9 @@ from rest_framework_simplejwt.views import (
 from .views import CommentViewSet, FollowViewSet, GroupViewSet, PostViewSet
 
 router = DefaultRouter()
-router.register('posts', PostViewSet, basename='posts')
-router.register('groups', GroupViewSet, basename='groups')
-router.register('follow', FollowViewSet, basename='follow')
+router.register(r'posts', PostViewSet, basename='posts')
+router.register(r'groups', GroupViewSet, basename='groups')
+router.register(r'follow', FollowViewSet, basename='follow')
 
 urlpatterns = [
     path('', lambda request: JsonResponse({
